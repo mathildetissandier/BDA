@@ -1,0 +1,7 @@
+dash
+psycopg2
+pandas
+io
+dash.exceptions
+dash.dependencies
+dash_bootstrap_components
